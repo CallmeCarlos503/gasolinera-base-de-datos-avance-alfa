@@ -49,7 +49,7 @@ class Db {
       'PASSWORD': password,
       'TELEFONO': telefono,
       'ID_ESTADOS': 1,
-      'ID_ROL': 1
+      'ID_ROL': 2
     });
     db.close();
   }
