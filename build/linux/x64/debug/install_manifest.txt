@@ -1,0 +1,16 @@
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/gasolinera
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/assets/user.png
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/assets/fondo.jpg
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/assets/logo.png
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/assets/background.jfif
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/assets/icon.png
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
