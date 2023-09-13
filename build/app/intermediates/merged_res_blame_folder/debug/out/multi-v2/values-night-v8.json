@@ -4,7 +4,7 @@
             "outputFile": "com.example.gasolinera.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/android/app/src/main/res/values-night/styles.xml",
+                    "source": "C:\\Users\\50371\\Documents\\gasolinera-base-de-datos-avance-alfa\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -1,4 +1,4 @@
-#Mon Sep 11 19:06:42 CST 2023
-base.0=/home/carlosalbertosanchezcastillo/Documentos/gasolinera-puma-defintivo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Tue Sep 12 05:52:37 CST 2023
+base.0=C\:\\Users\\50371\\Documents\\gasolinera-base-de-datos-avance-alfa\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
